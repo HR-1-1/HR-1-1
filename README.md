@@ -18,4 +18,4 @@
 <img align="right" alt="GIF" src="https://github.com/HR-1-1/HR-1-1/blob/main/code.gif?raw=true" width="500" height="320" />
 
 ### 🚀 Some Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HR-1-1&show_icons=true&theme=gotham" alt="GitStats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HR-1-1&show_icons=true&theme=gotham" alt="GitStats" />
