@@ -9,4 +9,6 @@
 - 🌱 I believe open-source is the right way to do things.
 - 📫 How to reach me: Here is my mail: <harishrajesh2002@gmail.com>
 - ⚡  Fun fact: Don't trust conda.
-
+***
+### 🚀 Some Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HR-1-1&show_icons=true&theme=gotham" alt="GitStats" />
