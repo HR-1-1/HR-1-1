@@ -1,4 +1,4 @@
-## Hey fellow coder 👋, Welcome 🙏
+## Welcome 🙏
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/HR-1-1)
 <div align="right">
 <a href="https://discord.gg">
