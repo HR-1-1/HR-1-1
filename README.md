@@ -21,7 +21,7 @@
 - 🔭 I'm a learner, exploring various fields of technology and leveraging them to solve real world problems.
 - 🌱 I believe open-source is the right way to do things.
 - 📫 How to reach me: Here is my [email](mailto:harishrajesh2002@gmail.com) :)
-- ⚡  Fun fact: Don't trust conda.
+- ⚡  Stability > Speed
 <br />
 <br />
 
