@@ -7,9 +7,6 @@
 <a href="https://www.linkedin.com/in/harish-r-1458b81bb/" target="_blank" rel="nofollow">
   <img align="right" alt="Harish's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
 </a>
-<a href="https://www.instagram.com/thanith_thamizhan/" target="_blank" rel="nofollow">
-  <img align="right" alt="Harish's Instafram" width="30px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
-</a>
 </div>
 <br />
 
