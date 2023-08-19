@@ -1,12 +1,4 @@
 ## Welcome 🙏
-<div align="right">
-<a href="https://www.linkedin.com/in/harish-r-1458b81bb/" target="_blank" rel="nofollow">
-  <img align="right" alt="Harish's Linkdein" width="30px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" />
-</a>
-</div>
-<br />
-
-***
 
 <img align="right" alt="GIF" src="https://github.com/HR-1-1/HR-1-1/blob/main/code.gif?raw=true" width="350" height="224" />
 
